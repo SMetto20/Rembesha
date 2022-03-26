@@ -8,3 +8,25 @@
     color:white;
     height: 4vh;
 }
+.nav2{
+    background-color: rgb(231, 222, 222);
+    
+}
+.links{
+    margin-left: 150vh;
+    height : 5vh;
+
+}
+
+.heading{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+.cart{
+    height:4vh;
+}
+.icons{
+    float:right;
+    margin-right: 20vh;
+    
+}
