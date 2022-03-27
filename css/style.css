@@ -21,12 +21,43 @@
 .heading{
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
+    margin-top: 4vh;
 }
 .cart{
-    height:4vh;
+    height:3vh;
+    margin-right:5vh ;
+    margin-top: 4vh;
 }
 .icons{
     float:right;
-    margin-right: 20vh;
+   
     
+}
+.search{
+    height:3vh; 
+    margin-right: 30vh;
+    margin-top: 4vh;
+}
+.home1{
+    background-image: url(/images/decor1.jpg);
+    height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home1-text{
+    position: absolute;
+    margin-top: 40vh;
+    margin-left: 80vh;
+}
+.home2{
+    background-image:url(/images/laves2.jpg);
+    height:70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-us{
+text-align:center;
+margin:14vh;
 }
